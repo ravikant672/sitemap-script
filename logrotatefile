@@ -1,0 +1,9 @@
+/app/web/www.squareyards.ca/logs/squareyards.caCustomLog_log
+{
+    copytruncate
+    missingok
+    rotate 2
+    notifempty
+    compress
+}
+

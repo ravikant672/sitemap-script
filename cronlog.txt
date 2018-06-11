@@ -1,0 +1,14 @@
+custom log file rotated
+New URL Added : <url><loc>http://www.squareyards.ca/lease/properties-for-lease-in-ryerson-university-victoria-street-toronto-on-canada</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+New URL Added : <url><loc>http://www.squareyards.ca/new-development/projects-in-scarbought</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+New URL Added : <url><loc>http://www.squareyards.ca/sale/properties-for-sale-in-r52k8ga3mjz8l6%27a=0</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+Location Total url found in log:64
+Location Total url already exist: 61
+Location Total new url added: 3
+================================
+sending incremental file list
+sitemap-location.xml
+
+sent 75.56K bytes  received 31 bytes  151.19K bytes/sec
+total size is 107.57K  speedup is 1.42
+file sync in proj dir
